@@ -6,3 +6,4 @@ In this project, I used Python to developed a tool that can be used to identify 
 * 3. Cleaning the Extraced Text Using Regular Expression
 * 4. Using A Pre-trained NLP Model to Tokenize Text into Sentences
 * 5. Comparing Two Files Sentence by Sentence
+* 6. Testing with Salesforce MSA files
