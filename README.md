@@ -1,7 +1,7 @@
 # Identifying Master Service Agreement Changes Using Python
 
 In this project, I used Python to develop a tool that can be used to identify the changes that have been made in an updated Master Service Agreement(MSA). It consists of 6 parts:
-* 1. Web scraping to automatically download the MSA files from the website
+* 1. Web scraping to automatically download the MSA files from the website for testing
 * 2. Extracting text from PDF files
 * 3. Cleaning the extracted text using regular expressions
 * 4. Using a pre-trained NLP model to tokenize the text into sentences
